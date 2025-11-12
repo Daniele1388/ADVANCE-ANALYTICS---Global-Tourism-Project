@@ -28,7 +28,7 @@ This repository also complements the [Exploratory Data Analysis (EDA)](https://g
 
 The analytical model follows a modular, multi-layered approach to evaluate tourism performance and segmentation over time.  
 
-![Advanced Analytics](https://raw.githubusercontent.com/Daniele1388/ADVANCED-ANALYTICS---Global-Tourism-Project/main/Docs/Advanced_Analytics.png)
+![Advanced Analytics](Docs/Advanced_Analytics.png?v=2)
 
 1. **Change Over Time** → Analyzes year-over-year differences and trends.  
 2. **Cumulative Analysis** → Computes running totals and averages using window functions.  
